@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐦 Twitter-Laravel
 
 ¡Bienvenido a **Twitter-Laravel**!  
@@ -77,3 +78,14 @@ Desarrollado por [ivan](https://github.com/Ivanrr462) como parte de un curso de 
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT.
+=======
+# Twitter-Laravel
+Proyecto de similitud a Twitter usando los conocimientos adquiridos en el Curso de Laravel 
+
+## Como hacer deploy
+
+    - Clona el repositorio
+    - Metete dentro de la carpeta
+    - Haz un php artisan serve
+    - Registrate
+>>>>>>> 7b9a5fc6871c447eb9124a21f7c2831c6babfd1b
